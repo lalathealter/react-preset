@@ -1,0 +1,11 @@
+$font-size: 3rem;
+
+main {
+  font-size: $font-size;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: red;
+}
